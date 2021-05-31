@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>PaperLander</title>
+	<release-date>11 October 2017</release-date>
+	<website>https://www.oculus.com/experiences/gear-vr/1520090358049199/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>GearVR</name>
+			<link>https://www.oculus.com/experiences/gear-vr/1520090358049199/</link>
+		</platform>
+		<platform>
+			<name>Oculus Go</name>
+			<link></link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>Demo</currency>
+			<value>(Free)</value>
+		</price>
+		<!--
+		<price>
+			<currency>USD</currency>
+			<value>$1.99</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>€1.59</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$1.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£1.29</value>
+		</price>-->
+	</prices>
+
+	<description><![CDATA[	
+	PaperLander could have been the "grandson" of Lunar Lander born in Little Big Planet..in VR!
+	<br/><br/>
+	PaperLander is a fragile rocket made out of - you guessed it - paper. He lives in PaperGalaxy, a low gravitational fantasy world far far away, made mostly out of paper too.
+	<br/><br/>
+	But now the Galaxy is in danger. A Space Storm is approaching and threatens to tear it apart. Only one thing can stop the Storm: The Great Anti-Storm Ion Cannon! But it works only with Proto-Stars. And Proto-Stars are scattered in the Galaxy, across its many Sectors. These Sectors are connected by a network of teleporters that activate upon landing.
+	<br/><br/>
+	PaperLander's mission is to find and collect those Stars, pass through the Sectors using the teleporters and bring them to the Anti-Storm Ion Cannon in time to save the Galaxy!
+	<br/><br/>
+	Build your own PaperLander here: <a href="http://thiswayupgames.com/PaperLanderModel.pdf" target="_blank">http://thiswayupgames.com/PaperLanderModel.pdf</a>
+		]]></description>
+	
+	<!--<history>
+	
+	</history>-->
+
+	<!--<features>
+		<feature>Includes something really interesting about the game which players will love.</feature>
+		<feature>This feature line is about the 8-bit pixels that are no doubt featuring in this game.</feature>
+		<feature>Since it is unlikely that the audio isn't fucking amazing, say something about the audio, maybe?</feature>
+		<feature>Make sure to stress that everything about this game is absolutely fabulous.</feature>
+		<feature>Something to wrap up this 5-point feature list with a nice ring to it.</feature>		
+	</features>-->
+	
+	<trailers>
+		<trailer>
+			<name>PaperLander Demo (GearVR)</name>
+			<youtube>KPYl4KOI9RI</youtube>
+		</trailer>
+		<trailer>
+			<name>PaperLander - First Look</name>
+			<youtube>J7d74dO0Vqk</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Finalist in Develop:VR IndieZone </description>
+			<info>PaperLander - London, UK - November 2016</info>
+		</award>
+		<award>
+			<description>Finalist in Develop:Brighton Indie Showcase </description>
+			<info>PaperLander - Brighton, UK - July 2015</info>
+		</award>
+		<award>
+			<description>Winner of Develop:Brighton PocketGamer's Big Indie Pitch</description>
+			<info>PaperLander - Brighton, UK - July 2014</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>IndieZone finalists announced for Develop:VR</description>
+			<name>Dan Pearson</name>
+			<website>gamesindustry.biz</website>
+			<link>https://www.gamesindustry.biz/articles/2016-10-12-indiezone-finalists-announced-for-develop-vr</link>
+		</quote>
+		<quote>
+			<description>Develop:VR Reveals Eight Titles Being Showcased at Indie Zone</description>
+			<name>Peter Graham</name>
+			<website>VRfocus</website>
+			<link>https://www.vrfocus.com/2016/10/developvr-reveals-eight-titles-being-showcased-at-indie-zone</link>
+		</quote>
+		<quote>
+			<description>10 Indie Games to Put on Your Radar in 2015</description>
+			<name>Luke Karmali</name>
+			<website>IGN</website>
+			<link>https://uk.ign.com/articles/2015/06/25/10-indie-games-to-put-on-your-radar-in-2015</link>
+		</quote>
+		<quote>
+			<description>ThisWayUp's PaperLander tops the first Big Indie Mixer</description>
+			<name>George Osborn</name>
+			<website>pocketgamer</website>
+			<link>http://www.pocketgamer.biz/news/59490/thiswayups-paperlander-tops-big-indie-mixer</link>
+		</quote>
+		<quote>
+			<description>PaperLander, a tappy tilty game about rockets, mazes, and lasers is the winner of the Big Indie Pitch in Brighton</description>
+			<name>Harry Slater</name>
+			<website>pocketgamer</website>
+			<link>http://www.pocketgamer.co.uk/r/Android/PaperLander/news.asp?c=60494</link>
+		</quote>
+	</quotes>
+	<!--<additionals>
+		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://vlambeer.com/bloglink</link>
+		</additional>
+	</additionals>-->
+	
+	<credits>
+		<credit>
+			<person>Nikos Chagialas</person>
+			<role>Developer &amp; Founder</role>
+		</credit>
+		<credit>
+			<person>Gabriel Mavronas</person>
+			<role>Artist</role>
+		</credit>
+		<credit>
+			<person>Ippokratis Bournellis</person>
+			<role>Optimisation/Shader Programming</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>nikos@thiswayupgames.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/ThisWayUpGames</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/paperlander</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>thiswayupgames.com</link>
+		</contact>
+	</contacts>
+</game>

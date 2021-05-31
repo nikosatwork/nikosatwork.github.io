@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>	
+	<title>ThisWayUp Games</title>
+	<founding-date>July 1, 2014</founding-date>
+	<website>http://www.thiswayupgames.com/</website>
+	<based-in>Brighton, UK</based-in>
+	
+	<press-contact>nikos@thiswayupgames.com</press-contact>
+	<phone>+44 7737 769 400</phone>
+	<address>
+		<line>Eaton Road</line>
+		<line>Hove BN33AS</line>
+	</address>
+
+	<socials>
+		<social>
+			<name>twitter.com/ThisWayUpGames</name>
+			<link>http://twitter.com/ThisWayUpGames</link>
+		</social>
+		<social>
+			<name>facebook.com/PapelLander</name>
+			<link>http://www.facebook.com/paperlan
+				der</link>
+		</social>
+	</socials>		
+	<description>ThisWayUp Games is a small indie studio based in Brighton. We specialise in games and experiences for mobile, VR &amp; AR.</description>	
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>Founded in July 2014 when a mobile version of PaperLander entered and won the Develop:Brighton PocketGamer's Big Indie Pitch that year.</text>
+		</history>
+		<history>
+			<header>After that</header>
+			<text>Working on PaperLander - a physics based cardboard style game for VR. PaperLander could have been the 'grandson' of Lunar Lander born in Little Big Planet..in VR!</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>PaperLander Demo (GearVR)</name>
+			<youtube>KPYl4KOI9RI</youtube>
+		</trailer>
+		<trailer>
+			<name>PaperLander - First Look</name>
+			<youtube>J7d74dO0Vqk</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Finalist in Develop:VR IndieZone </description>
+			<info>PaperLander - London, UK - November 2016</info>
+		</award>
+		<award>
+			<description>Finalist in Develop:Brighton Indie Showcase </description>
+			<info>PaperLander - Brighton, UK - July 2015</info>
+		</award>
+		<award>
+			<description>Winner of Develop:Brighton PocketGamer's Big Indie Pitch</description>
+			<info>PaperLander - Brighton, UK - July 2014</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>IndieZone finalists announced for Develop:VR</description>
+			<name>Dan Pearson</name>
+			<website>gamesindustry.biz</website>
+			<link>https://www.gamesindustry.biz/articles/2016-10-12-indiezone-finalists-announced-for-develop-vr</link>
+		</quote>
+		<quote>
+			<description>Develop:VR Reveals Eight Titles Being Showcased at Indie Zone</description>
+			<name>Peter Graham</name>
+			<website>VRfocus</website>
+			<link>https://www.vrfocus.com/2016/10/developvr-reveals-eight-titles-being-showcased-at-indie-zone</link>
+		</quote>
+		<quote>
+			<description>10 Indie Games to Put on Your Radar in 2015</description>
+			<name>Luke Karmali</name>
+			<website>IGN</website>
+			<link>https://uk.ign.com/articles/2015/06/25/10-indie-games-to-put-on-your-radar-in-2015</link>
+		</quote>
+		<quote>
+			<description>ThisWayUp's PaperLander tops the first Big Indie Mixer</description>
+			<name>George Osborn</name>
+			<website>pocketgamer</website>
+			<link>http://www.pocketgamer.biz/news/59490/thiswayups-paperlander-tops-big-indie-mixer</link>
+		</quote>
+		<quote>
+			<description>PaperLander, a tappy tilty game about rockets, mazes, and lasers is the winner of the Big Indie Pitch in Brighton</description>
+			<name>Harry Slater</name>
+			<website>pocketgamer</website>
+			<link>http://www.pocketgamer.co.uk/r/Android/PaperLander/news.asp?c=60494</link>
+		</quote>
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<!--additionals>
+		<additional>
+			<title>Company Link #1</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals-->
+	
+	<credits>
+		<credit>
+			<person>Nikos Chagialas</person>
+			<role>Developer &amp; Founder</role>
+		</credit>
+		<credit>
+			<person>Gabriel Mavronas</person>
+			<role>Artist</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>nikos@thiswayupgames.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/ThisWayUpGames</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/paperlander</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>thiswayupgames.com</link>
+		</contact>
+	</contacts>
+</game>
